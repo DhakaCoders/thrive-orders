@@ -1,3 +1,10 @@
 .downsell1-ctlr .upsell-1-sec-1-rgt h2{
 	font-size: 34px;
 }
+
+.downsell1-ctlr .upsell-1-sec-1-rgt h6{
+	font-weight: 400;
+	font-size: 19px;
+	color: #bb0f00;
+	margin-bottom: 25px;
+}
