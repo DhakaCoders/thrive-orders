@@ -8,8 +8,40 @@
 }
 
 
+<<<<<<< HEAD
 @media(max-width: 815px){
 	.ups3-section2-desc br{
 		display: none;
 	}
+=======
+@media(max-width: 1199px){
+	
+
+}
+
+@media(max-width: 991px){
+	
+	
+}
+
+@media(max-width: 767px){
+	
+
+
+}
+
+@media(max-width: 575px){
+	
+
+
+}
+
+@media(max-width: 479px){
+
+
+}
+
+@media(max-width: 359px){
+
+>>>>>>> 45764d67e82ba26d885097ead385538f200633f3
 }

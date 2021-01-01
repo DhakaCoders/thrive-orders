@@ -18,3 +18,45 @@
 .downsell1-ctlr .upsell-1-sec-1-rgt{
 	padding-right: 15px;
 }
+
+
+@media(max-width: 1199px){
+	
+
+}
+
+@media(max-width: 991px){
+	
+	
+}
+
+@media(max-width: 767px){
+	.upsell-1-sec-1-lft img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.upsell-1-sec-1-rgt {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+	.downsell1-ctlr .ups2-section3-btn {
+	    padding-top: 20px;
+	}
+
+}
+
+@media(max-width: 575px){
+	
+
+
+}
+
+@media(max-width: 479px){
+
+
+}
+
+@media(max-width: 359px){
+
+}
