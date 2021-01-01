@@ -1,13 +1,10 @@
 .header{
-	padding-top: 28px;
+	padding-top: 25px;
 }
 
 
-.hdr-title{
-	display: block;
-	font-size: 44px;
-	line-height: 1;
-	margin-bottom: 7px;
+.header-inr h1{
+	margin-bottom: 2px;
 	font-weight: 700;
 	text-align: center;
 }
