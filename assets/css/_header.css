@@ -4,12 +4,12 @@
 }
 
 
-.header-inr h1{
+.fl-page-entry-hdr h1{
 	margin-bottom: 2px;
 	font-weight: 700;
 	text-align: center;
 }
-.header-inr p{
+.fl-page-entry-hdr p{
 	margin-bottom: 0;
 	background: rgb(255, 227, 0);
 	text-align: center;
