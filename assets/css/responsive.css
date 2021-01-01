@@ -78,6 +78,14 @@
 	p{
 		font-size: 16px;
 	}
+	a.fl-btn, .fl-btn{
+		font-size: 23px!important;
+		padding: 13px 12px!important;
+		padding-right: 55px!important;
+	}
+	a.fl-btn i, .fl-btn i{
+	    right: 17px!important;
+	}
 
 
 }
@@ -101,8 +109,14 @@
 	h4{
 		font-size: 20px;
 	}
-
-
+	a.fl-btn, .fl-btn{
+		font-size: 20px!important;
+		padding: 13px 12px!important;
+		padding-right: 42px!important;
+	}
+	a.fl-btn i, .fl-btn i{
+	    right: 17px!important;
+	}
 }
 
 @media(max-width: 479px){

@@ -6,3 +6,10 @@
 .downsell3-ctlr .fl-btn {
     background: rgb(252, 141, 32);
 }
+
+
+@media(max-width: 815px){
+	.ups3-section2-desc br{
+		display: none;
+	}
+}
