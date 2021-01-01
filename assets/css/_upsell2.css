@@ -9,9 +9,13 @@
 .ups2-section2-desc{
 	padding-top: 20px;
 }
-.big-mb{
-	margin-bottom: 45px;
-}
 .ups2-section2-desc .big-mb{
 
+}
+.ups2-section3{
+	padding-bottom: 60px;
+}
+.ups2-section1-cntlr ul{
+	margin-left: -15px;
+	margin-right: -15px;
 }
