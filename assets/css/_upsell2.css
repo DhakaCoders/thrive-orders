@@ -26,14 +26,30 @@
 	margin-right: -15px;
 }
 
-
+@media(max-width: 991px){
+	.ups2-section1-title{
+		font-size: 42px;
+	}
+}
 @media(max-width: 767px){
 	.ups2-section2-img{
 		text-align: center;
+	}
+	.ups2-section1-title{
+		font-size: 38px;
 	}
 }
 @media(max-width: 672px){
 	br{
 		display: none;
+	}
+	.ups2-section1-cntlr,
+	.ups2-section3-cntlr{
+		padding: 0;
+	}
+}
+@media(max-width: 575px){
+	.ups2-section1-title{
+		font-size: 34px;
 	}
 }
