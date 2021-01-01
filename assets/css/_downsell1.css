@@ -8,3 +8,13 @@
 	color: #bb0f00;
 	margin-bottom: 25px;
 }
+.downsell1-ctlr a.fl-btn, 
+.downsell1-ctlr .fl-btn{
+	background: rgb(252, 141, 32);
+}
+.downsell1-ctlr .ups2-section3-btn{
+	padding-top: 30px;
+}
+.downsell1-ctlr .upsell-1-sec-1-rgt{
+	padding-right: 15px;
+}
