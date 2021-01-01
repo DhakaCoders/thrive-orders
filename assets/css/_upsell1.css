@@ -1,8 +1,14 @@
 .upsell-1-sec-1{
 	padding-bottom: 70px;
 }
+.upsell-1-sec-1-lft{
+	text-align: center;
+}
 .upsell-1-sec-1-lft img{
 	margin-bottom: 22px;
+}
+.downsell2-img-center{
+	max-width: 150px;
 }
 .upsell-1-sec-1-rgt{
 	padding-left: 20px;
