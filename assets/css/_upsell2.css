@@ -1,3 +1,9 @@
+
+
+.ups2-section1-cntlr,
+.ups2-section3-cntlr{
+	padding: 0 9px;
+}
 .ups2-section1-title{
 	font-size: 46px;
 	text-align: center;
@@ -18,4 +24,16 @@
 .ups2-section1-cntlr ul{
 	margin-left: -15px;
 	margin-right: -15px;
+}
+
+
+@media(max-width: 767px){
+	.ups2-section2-img{
+		text-align: center;
+	}
+}
+@media(max-width: 672px){
+	br{
+		display: none;
+	}
 }
