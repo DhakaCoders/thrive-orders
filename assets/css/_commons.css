@@ -310,37 +310,27 @@ footer.footer-wrp,
 sky bg
 */
 
-.select-offer-boxs-sec-con-hdr{
-	background: #25b1dc;
-}
 
 
 /*color blue*/
-.hdr-rgt h2,
-.unbeatable-competition-sec h3,
-.competitors-sec-hdr h3{
-	color: #006AB6;
+.color-blue{
+	color: #084b67;
 }
-
-/*color sky*/
-.cleaning-convenient-hdr h2,
-.cleaning-convenient-item-des h6{
-	color: #006ab6;
+/*color pure-blue*/
+.pure-blue{
+	color: #0000ef;
 }
-
-/*color sky 2*/
-.specs-item strong{
-	color: #25b1dc;
-}
-
-/*color sky 3*/
-.germs-lft-des p{
-	color: #00bcc3;
+/*bg-yellow*/
+.bg-yellow{
+	color: #ffe300;
 }
 
 
-/*color orange*/
-.color-orange{
-	color: #ffa517;
+/*color gray black*/
+.color-gray-black{
+	color: #2f2f2f;
 }
-
+/*color green*/
+.color-green{
+	color: #289e00;
+}
