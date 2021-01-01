@@ -29,6 +29,58 @@ strong,b{
 p{
 	line-height: 1.2;
 }
+.sell-text-midule ul,
+ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	    border: 1px solid #3cb371;
+	    border-radius: 5px;
+}
+ul li,
+.sell-text-midule ul li{
+	border-bottom: 1px solid #3cb371;
+	padding: 11px 0;
+	line-height: 1;
+	padding-left: 43px;
+	position: relative;
+}
+.sell-text-midule ul li:first-child i{
+	border-top-left-radius: 5px;
+}
+.sell-text-midule ul li:last-child i{
+	border-bottom-left-radius: 5px;
+}
+.sell-text-midule ul li i {
+    position: absolute;
+    left: 0px;
+    width: auto;
+    padding: 11px 9px;
+    background: #3cb371;
+    top: 50%;
+    color: #fff;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    font-family: FontAwesome;
+    border-right: 1px solid #3cb371;
+    border-bottom: 1px solid #3cb371;
+    
+}
+/*.sell-text-midule ul li:after{
+	content: "\f00c";
+	position: absolute;
+	font-family: FontAwesome;
+	left: 0;
+	top: 50%;
+	color: #fff;
+	font-size: 18px;
+	transform: translateY(-50%);
+	background: #3cb371;
+	height: 40px;
+	width:37px; 
+}*/
 /*-- app gap use pattern --*/
 /*data-xxs = 575
 data-xs = 767
@@ -117,6 +169,9 @@ Containers
 
 .sell-text-midule{
 	
+}
+.sell-text-center{
+	text-align: center;
 }
 .ulc{
 	margin: 0;
