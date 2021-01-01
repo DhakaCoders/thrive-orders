@@ -5,7 +5,9 @@
 	text-align: center;
 	
 }
-
+.typ-section1-cntlr{
+	padding: 0!important;
+}
 .typ-page-logo-cntlr a{
 	display: inline-block;
 	max-width: 186px;
@@ -21,4 +23,21 @@
 .typ-header-inr{
 	padding-top: 35px;
 	padding-bottom: 25px;
+}
+
+
+@media(max-width: 991px){
+	.typ-section1-title{
+		font-size: 35px;
+	}
+}
+@media(max-width: 767px){
+	.typ-section1-title{
+		font-size: 32px;
+	}
+}
+@media(max-width: 575px){
+	.typ-section1-title{
+		font-size: 30px;
+	}
 }
