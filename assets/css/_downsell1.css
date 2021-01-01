@@ -8,3 +8,7 @@
 	color: #bb0f00;
 	margin-bottom: 25px;
 }
+.downsell1-ctlr a.fl-btn, 
+.downsell1-ctlr .fl-btn{
+	background: rgb(252, 141, 32);
+}

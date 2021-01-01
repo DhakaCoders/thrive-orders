@@ -1,5 +1,5 @@
 .upsell-1-sec-1{
-
+	padding-bottom: 70px;
 }
 .upsell-1-sec-1-lft img{
 	margin-bottom: 22px;
@@ -21,4 +21,12 @@
 }
 .upsell-1-sec-1-rgt h5{
 	margin-bottom: 30px;
+}
+
+.upsell1-ctlr a.fl-btn, 
+.upsell1-ctlr .fl-btn{
+	background: rgb(252, 141, 32);
+}
+.upsell1-ctlr .ups2-section3-btn{
+	margin-top: 5px;
 }
