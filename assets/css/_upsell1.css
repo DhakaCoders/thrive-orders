@@ -46,7 +46,9 @@
 }
 
 @media(max-width: 991px){
-	
+	.upsell-1-sec-1 {
+	    padding-bottom: 60px;
+	}
 	
 }
 
@@ -60,12 +62,17 @@
 	    padding-left: 0;
 	    padding-right: 0;
 	}
+	.upsell-1-sec-1 {
+	    padding-bottom: 50px;
+	}
 
 
 }
 
 @media(max-width: 575px){
-	
+	.upsell-1-sec-1 {
+	    padding-bottom: 40px;
+	}
 
 
 }
