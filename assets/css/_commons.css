@@ -208,6 +208,9 @@ img{
 	max-width: 100%;
 	height: auto;
 }
+u{
+	text-decoration: underline;
+}
 
 .hide-lg{
 	display: block!important;
