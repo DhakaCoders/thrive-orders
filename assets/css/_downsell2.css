@@ -6,3 +6,38 @@
 .downsell2-ctlr .fl-btn{
 	background: rgb(252, 141, 32);
 }
+
+@media(max-width: 1199px){
+	
+
+}
+
+@media(max-width: 991px){
+	
+	
+}
+
+@media(max-width: 767px){
+	.downsell2-ctlr .upsell-1-sec-1-rgt h4 {
+	    margin-bottom: 25px;
+	}
+
+
+}
+
+@media(max-width: 575px){
+	.downsell2-ctlr .upsell-1-sec-1-rgt h4 {
+	    margin-bottom: 20px;
+	}
+
+
+}
+
+@media(max-width: 479px){
+
+
+}
+
+@media(max-width: 359px){
+
+}
