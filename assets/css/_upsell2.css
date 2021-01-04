@@ -7,7 +7,8 @@
 .ups2-section1-title{
 	font-size: 46px;
 	text-align: center;
-	margin-bottom: 10px;
+	margin: 0 -9px;
+	margin-bottom: 14px;
 }
 .ups2-section2-img{
 	margin-bottom: 35px;
@@ -37,6 +38,9 @@
 	}
 	.ups2-section1-title{
 		font-size: 38px;
+		margin-left: 0;
+		margin-right: 0;
+		margin-bottom: 10px;
 	}
 }
 @media(max-width: 672px){
