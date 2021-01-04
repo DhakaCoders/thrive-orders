@@ -1,10 +1,11 @@
-.downsell2-ctlr .upsell-1-sec-1-rgt h4{
-	margin-bottom: 30px;
-}
+
 
 .downsell2-ctlr a.fl-btn, 
 .downsell2-ctlr .fl-btn{
 	background: rgb(252, 141, 32);
+}
+.downsell2-ctlr .upsell-1-sec-1-rgt h2{
+	font-size: 34px;
 }
 
 @media(max-width: 1199px){
@@ -13,31 +14,25 @@
 }
 
 @media(max-width: 991px){
-	
+	.downsell2-ctlr .upsell-1-sec-1-rgt h2{
+		font-size: 32px;
+	}
 	
 }
 
 @media(max-width: 767px){
-	.downsell2-ctlr .upsell-1-sec-1-rgt h4 {
-	    margin-bottom: 25px;
+	.downsell2-ctlr .upsell-1-sec-1-rgt h2{
+		font-size: 30px;
 	}
 
 
 }
 
 @media(max-width: 575px){
-	.downsell2-ctlr .upsell-1-sec-1-rgt h4 {
-	    margin-bottom: 20px;
+	.downsell2-ctlr .upsell-1-sec-1-rgt h2{
+		font-size: 28px;
 	}
 
 
 }
 
-@media(max-width: 479px){
-
-
-}
-
-@media(max-width: 359px){
-
-}

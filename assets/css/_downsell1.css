@@ -26,7 +26,12 @@
 }
 
 @media(max-width: 991px){
-	
+	.downsell1-ctlr .upsell-1-sec-1-rgt h2 {
+	    font-size: 32px;
+	}
+	.downsell1-ctlr .upsell-1-sec-1-rgt h6{
+		font-size: 18px;
+	}
 	
 }
 
@@ -43,20 +48,19 @@
 	.downsell1-ctlr .ups2-section3-btn {
 	    padding-top: 20px;
 	}
+	.downsell1-ctlr .upsell-1-sec-1-rgt h2 {
+	    font-size: 30px;
+	}
+	.downsell1-ctlr .upsell-1-sec-1-rgt h6{
+		font-size: 17px;
+	}
 
 }
 
 @media(max-width: 575px){
-	
+	.downsell1-ctlr .upsell-1-sec-1-rgt h2 {
+	    font-size: 28px;
+	}
 
-
-}
-
-@media(max-width: 479px){
-
-
-}
-
-@media(max-width: 359px){
 
 }

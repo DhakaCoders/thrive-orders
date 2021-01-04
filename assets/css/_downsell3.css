@@ -18,27 +18,27 @@
 }
 
 @media(max-width: 991px){
-	
+	.downsell3-ctlr .upsell-1-sec-1-rgt h2{
+		font-size: 32px;
+		margin-bottom: 25px;
+	}
 	
 }
 
 @media(max-width: 767px){
-	
+	.downsell3-ctlr .upsell-1-sec-1-rgt h2{
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
 
 
 }
 
 @media(max-width: 575px){
-	
+	.downsell3-ctlr .upsell-1-sec-1-rgt h2{
+		font-size: 28px;
+	}
 
 
 }
 
-@media(max-width: 479px){
-
-
-}
-
-@media(max-width: 359px){
-
-}
