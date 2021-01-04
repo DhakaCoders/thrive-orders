@@ -12,9 +12,13 @@
 }
 .ups2-section2-img{
 	margin-bottom: 35px;
+	padding: 0 10px;
 }
 .ups2-section2-desc{
 	padding-top: 20px;
+}
+.ups2-section2-desc h4 span{
+	font-weight: 400;
 }
 .ups2-section2-desc .big-mb{
 
@@ -35,6 +39,7 @@
 @media(max-width: 767px){
 	.ups2-section2-img{
 		text-align: center;
+		padding: 0;
 	}
 	.ups2-section1-title{
 		font-size: 38px;
