@@ -106,6 +106,7 @@ a.fl-btn,
 	position: relative;
 	font-weight: 700;
 	line-height: 1.1;
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
 }
 
 a.fl-btn i,

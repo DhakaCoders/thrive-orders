@@ -22,7 +22,11 @@
 }
 
 
-
+@media(max-width: 767px){
+	.fl-page-entry-hdr h1{
+		font-size: 40px;
+	}
+}
 @media(max-width: 575px){
 	.fl-page-entry-hdr p{
 		font-size: 14px;

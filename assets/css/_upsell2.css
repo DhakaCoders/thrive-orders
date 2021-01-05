@@ -50,6 +50,10 @@
 		margin-right: 0;
 		margin-bottom: 10px;
 	}
+	.ups2-section1-cntlr ul {
+	    margin-left: 0;
+	    margin-right: 0;
+	}
 }
 @media(max-width: 672px){
 	br{
