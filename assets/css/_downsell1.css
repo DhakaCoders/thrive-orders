@@ -16,7 +16,7 @@
 	padding-top: 30px;
 }
 .downsell1-ctlr .upsell-1-sec-1-rgt{
-	padding-right: 15px;
+	padding-right: 14px;
 }
 
 
@@ -53,6 +53,12 @@
 	}
 	.downsell1-ctlr .upsell-1-sec-1-rgt h6{
 		font-size: 17px;
+	}
+	.downsell1-ctlr .upsell-1-sec-1-rgt {
+	    padding-right: 0;
+	}
+	.downsell1-ctlr .upsell-1-sec-1-rgt h6 br{
+		display: none;
 	}
 
 }
