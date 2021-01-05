@@ -37,6 +37,9 @@
 .upsell1-ctlr .ups2-section3-btn{
 	margin-top: 5px;
 }
+.upsell1-ctlr .upsell-1-sec-1-rgt h5{
+	font-size: 22px;
+}
 
 
 
@@ -48,6 +51,9 @@
 @media(max-width: 991px){
 	.upsell-1-sec-1 {
 	    padding-bottom: 60px;
+	}
+	.upsell1-ctlr .upsell-1-sec-1-rgt h5 {
+	    font-size: 20px;
 	}
 	
 }
@@ -64,6 +70,12 @@
 	}
 	.upsell-1-sec-1 {
 	    padding-bottom: 50px;
+	}
+	.upsell-1-sec-1-rgt h5 {
+	    margin-bottom: 25px;
+	}
+	.upsell1-ctlr .upsell-1-sec-1-rgt h5 {
+	    font-size: 18px;
 	}
 
 
